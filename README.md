@@ -17,3 +17,4 @@ Just add tests in the `spec/` and code in the `js` folder.
 Pre-loaded Libraries
 =============
 + jQuery
++ underscore
