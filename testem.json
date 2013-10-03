@@ -1,0 +1,7 @@
+{
+  "framework": "jasmine",
+  "src_files": [
+    "js/vendor/jquery-1.10.2.min.js",
+    "spec/**/*.js"
+  ]
+}
