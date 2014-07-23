@@ -1,9 +1,10 @@
 {
   "framework": "jasmine",
+  "before_tests": "grunt compile",
   "src_files": [
-    "js/vendor/jquery-1.10.2.min.js",
-    "js/vendor/underscore.js",
-    "js/hello.js",
-    "spec/**/*.js"
+    "scripts/vendor/jquery-1.10.2.min.js",
+    "scripts/vendor/underscore.js",
+    ".tmp/scripts/example.js",
+    ".tmp/spec/**/*.js"
   ]
 }
